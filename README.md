@@ -4,6 +4,7 @@
 
 ### https://jaihind1702.github.io/Corona_Tracker/
 
+#### A Video DEMO is there : ##CORONA_Tracker.avi
 * 
 
 
